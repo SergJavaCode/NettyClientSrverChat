@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c35887-8c5f-4f7b-b23d-6c25078305fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadmyMD.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadmyMD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings_test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings_test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings_test3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sergjavacode/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sergjavacode/ChatClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sergjavacode/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sergjavacode/ChatServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sergjavacode/FileSettingsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sergjavacode/LogToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestFileSettigsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestLogToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/О проекте.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/О проекте.pdf" afterDir="false" />
+    <list default="true" id="94c35887-8c5f-4f7b-b23d-6c25078305fc" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/ReadmyMD.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/О проекте.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +119,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699603027564</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1700255068467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700255068468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
